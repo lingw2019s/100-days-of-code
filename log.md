@@ -1,25 +1,17 @@
 # 100 Days Of Code - Log
+The log of my #100DaysOfCode challenge. Started on [May 1, Friday, 2020].
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 1, Friday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+1. Create local and remote github repos for my 100DaysOfCode challenge.
+2. create a basic backdrop for my own portfolio.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm picking up what I learned in 282 and 382. In the meantime build my own projects (will try freecodecamp's projects suggested by Kallaway)
 
-**Link to work:** [Calculator App](http://www.example.com)
+<!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+### Day 2: May 2, Saturday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
