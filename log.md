@@ -5,15 +5,20 @@ The log of my #100DaysOfCode challenge. Started on [May 1, Friday, 2020].
 
 **Today's Progress**:
 1. Create local and remote github repos for my 100DaysOfCode challenge.
-2. create a basic backdrop for my own portfolio.
+2. connect to UO shell and get ready for building a personal portfolio webpage.
 
-**Thoughts:** I'm picking up what I learned in 282 and 382. In the meantime build my own projects (will try freecodecamp's projects suggested by Kallaway)
+**Thoughts:** I'm picking up what I learned in 111, 282 and 382. In the meantime build my own projects (later I will try freecodecamp's projects suggested by Kallaway)
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 ### Day 2: May 2, Saturday
+**Today's To-do**
+1. create a personal portfolio page.
+2. add project lists under portfolio
+3. start project 1.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
+
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
