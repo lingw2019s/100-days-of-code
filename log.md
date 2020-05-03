@@ -12,15 +12,17 @@ The log of my #100DaysOfCode challenge. Started on [May 1, Friday, 2020].
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
 ### Day 2: May 2, Saturday
-**Today's To-do**
-1. create a personal portfolio page.
-2. add project lists under portfolio
-3. start project 1.
+
+**Today's Progress**:
+1. Start the Roll Dice App: set up the dice roll page.
+2. re-learn html DOM: with the html DOM, JS can access and change all the elements of an HTML document.
+
+**Thoughts** I realized I forgot a lot of what I learned about JS and HTML. But after re-learning them, I feel I have a much better understanding of the materials and they now stick to my mind more rigorously. :)
+
+### Day 3: May 3, Sunday
 
 **Today's Progress**:
 
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
