@@ -22,7 +22,9 @@ The log of my #100DaysOfCode challenge. Started on [May 1, Friday, 2020].
 ### Day 3: May 3, Sunday
 
 **Today's Progress**:
-
+1. Use javascript instead of HTML to add elements (such as text node, images, input box, and buttons) to the browser.
+2. Add onclick attribute for buttons
+3. Take the value from input box as parameter in Function.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
