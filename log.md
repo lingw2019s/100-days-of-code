@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 The log of my #100DaysOfCode challenge. Started on [May 1, Friday, 2020].
 
-### Day 0: May 1, Friday
+### Day 1: May 1, Friday
 
 **Today's Progress**:
 1. Create local and remote github repos for my 100DaysOfCode challenge.
@@ -22,9 +22,17 @@ The log of my #100DaysOfCode challenge. Started on [May 1, Friday, 2020].
 ### Day 3: May 3, Sunday
 
 **Today's Progress**:
+Still working on Roll Dice app:
 1. Use javascript instead of HTML to add elements (such as text node, images, input box, and buttons) to the browser.
-2. Add onclick attribute for buttons
-3. Take the value from input box as parameter in Function.
+2. Add onClick attribute to the button
+3. Take the value from the input box and pass it into a function.
+
+
+### Day 3: May 4, Monday
+**Today's Progress**:
+1. Learn onClick attribute of a HTML element,
+2. relationship among event, event listener, and event handler.  
+3. when to use onClick and when to use addEventListener(click, function)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
