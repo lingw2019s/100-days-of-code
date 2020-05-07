@@ -28,11 +28,22 @@ Still working on Roll Dice app:
 3. Take the value from the input box and pass it into a function.
 
 
-### Day 3: May 4, Monday
+### Day 4: May 4, Monday
 **Today's Progress**:
 1. Learn onClick attribute of a HTML element,
 2. relationship among event, event listener, and event handler.  
 3. when to use onClick and when to use addEventListener(click, function)
+
+### Day 5: May 5, Tuesday
+1. Learn event, addEventListener and event handler.
+2. Registering the clickHandler by using an extra window addEventListener at load is NOT necessary in the origional code from project 1.
+
+### Day 6: May 6, Wednesday
+1. Learn addEventListener takes a NON-parametric handler function only!
+2. Add a section to validate input target number to be in [2, 12] and not a NaN.
+3. Add a ternary operator to decide between "roll" or "rolls".
+4. Add a <hr>
+5. Finish the "content" part for the Dice app.  
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
