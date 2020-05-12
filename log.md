@@ -31,7 +31,7 @@ Still working on Roll Dice app:
 ### Day 4: May 4, Monday
 **Today's Progress**:
 1. Learn onClick attribute of a HTML element,
-2. relationship among event, event listener, and event handler.  
+2. Relationship among event, event listener, and event handler.  
 3. when to use onClick and when to use addEventListener(click, function)
 
 ### Day 5: May 5, Tuesday
@@ -40,10 +40,18 @@ Still working on Roll Dice app:
 
 ### Day 6: May 6, Wednesday
 1. Learn addEventListener takes a NON-parametric handler function only!
-2. Add a section to validate input target number to be in [2, 12] and not a NaN.
-3. Add a ternary operator to decide between "roll" or "rolls".
-4. Add a <hr>
+2. Create input validation for target number to be in [2, 12] and not a NaN. (My sole contribution to the code)
+3. Add a ternary operator to decide between "roll" or "rolls" depending on the roll count is 1 or more.
+4. Add a \<hr> in the html, which stands for a horizontal line.
 5. Finish the "content" part for the Dice app.  
+
+### Day 7: May 8, Friday
+1. Learn about css.
+2. Beautify the Dice app.
+
+
+### Day 8: May 11, Monday
+1. Adjust the App css style file.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
