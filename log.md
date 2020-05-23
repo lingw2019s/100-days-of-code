@@ -51,7 +51,19 @@ Still working on Roll Dice app:
 
 
 ### Day 8: May 11, Monday
-1. Adjust the App css style file.
+1. Complete the style file for the Dice App.
+
+### Day 9: May 12, Tuesday
+1. Start Flickr gallery project.
+
+
+### Day 10: May 15, Friday
+1. Learn CSS grid property
+2. Complete Flickr gallery style file using Grid Container and grid items.
+
+### Day 11-13: May 21-22, Wednesday
+1. Build a to-do app that uses Web Storage API w/ jQuery. The Storage API let browser store data locally.
+2. Learn ES6 class types: basic and inheritance
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
